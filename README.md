@@ -21,4 +21,4 @@ Este é o meu portfólio pessoal, desenvolvido para mostrar minhas habilidades, 
 - Fonte Awesome
 
 ## Como executar?
-Clone o repositório do github, ou simplesmente abra o arquivo .ZIP e clique em "View Raw". Então, abra o arquivo e abra o "index.html"
+Clone o repositório do github, baixe o arquivo zip clicando em "code" e logo em seguida "download ZIP files".
